@@ -9,7 +9,7 @@ export default function Inspection() {
     <div>
       <h1>Inspection</h1>
       <div>
-        <Link href="/inspection/camera">
+        <Link href="/inspection/camera" target="_blank" rel="noopener noreferrer">
           <button className="btn btn-accent">Open Camera</button>
         </Link>
       </div>
